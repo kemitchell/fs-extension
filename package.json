@@ -1,0 +1,27 @@
+{
+  "name": "fs-extension",
+  "version": "0.0.0",
+  "description": "get file extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chetandhembre/fs-extension.git"
+  },
+  "keywords": [
+    "fs",
+    "file",
+    "extension"
+  ],
+  "author": "Chetan Dhembre <chetandhembre@gmail.com>",
+  "license": "MIT @chetandhembre",
+  "bugs": {
+    "url": "https://github.com/chetandhembre/fs-extension/issues"
+  },
+  "homepage": "https://github.com/chetandhembre/fs-extension",
+  "devDependencies": {
+    "tap": "^0.4.8"
+  }
+}
