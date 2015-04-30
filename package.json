@@ -16,7 +16,7 @@
     "extension"
   ],
   "author": "Chetan Dhembre <chetandhembre@gmail.com>",
-  "license": "MIT @chetandhembre",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/chetandhembre/fs-extension/issues"
   },
